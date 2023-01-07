@@ -1,0 +1,26 @@
+_id: req_0ffb29ddef984803961a70f582436975
+type: Request
+parentId: fld_29bf5e62248a4ed2b5966db744b3fc68
+modified: 1673113747627
+created: 1673113701569
+url: http://127.0.0.1:8000/units/1
+name: Consultar por id
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers:
+  - name: Authorization
+    value: Bearer
+      eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXV0aFwvbG9naW4iLCJpYXQiOjE2NzI5NDQ5NzksImV4cCI6MTY3Mjk0ODU3OSwibmJmIjoxNjcyOTQ0OTc5LCJqdGkiOiJNWlI3ZU0wUlhJMEZLSGFqIiwic3ViIjo0LCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.q6UxxyRF8MsPiSVajRvaB_gAYvnWisWnIjvpqTk_Cqc
+authentication: {}
+metaSortKey: -1673113701622
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

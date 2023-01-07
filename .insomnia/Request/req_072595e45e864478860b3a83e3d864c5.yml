@@ -1,0 +1,25 @@
+_id: req_072595e45e864478860b3a83e3d864c5
+type: Request
+parentId: fld_2c79075dd682490ca6f4c64871832f70
+modified: 1673113826674
+created: 1673113701511
+url: http://127.0.0.1:8000/users/delete/5
+name: Eliminar por id
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers:
+  - name: X-Requested-With
+    value: XMLHttpRequest
+authentication: {}
+metaSortKey: -1673113707460
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

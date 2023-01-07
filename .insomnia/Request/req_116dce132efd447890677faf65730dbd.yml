@@ -1,0 +1,34 @@
+_id: req_116dce132efd447890677faf65730dbd
+type: Request
+parentId: fld_2c79075dd682490ca6f4c64871832f70
+modified: 1673113807199
+created: 1673113701524
+url: http://127.0.0.1:8000/users/4
+name: Modificar
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"firstname": "Arcadio",
+    	"lastname": "Arevalo",
+    	"email": "arevaloarcadio.96@gmail.com",
+    	"password": "123456**",
+    	"password_confirmation": "123456**"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: X-Requested-With
+    value: XMLHttpRequest
+authentication: {}
+metaSortKey: -1673113707335
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

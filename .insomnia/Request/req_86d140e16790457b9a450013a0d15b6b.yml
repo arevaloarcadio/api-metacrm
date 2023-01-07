@@ -1,0 +1,38 @@
+_id: req_86d140e16790457b9a450013a0d15b6b
+type: Request
+parentId: fld_2c79075dd682490ca6f4c64871832f70
+modified: 1673113803361
+created: 1673113701531
+url: http://127.0.0.1:8000/users/
+name: Crear
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"firstname": "Arcadio Jose",
+    	"lastname": "Arevalo Muñoz",
+    	"email": "arevaloarcadio.916@gmail.com",
+    	"password": "123456**",
+    	"password_confirmation": "123456**",
+    	"unit_ids": [
+    		1,
+    		2
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: X-Requested-With
+    value: XMLHttpRequest
+authentication: {}
+metaSortKey: -1673113707285
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

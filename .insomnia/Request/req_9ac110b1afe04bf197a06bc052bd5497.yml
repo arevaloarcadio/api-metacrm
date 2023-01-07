@@ -1,0 +1,26 @@
+_id: req_9ac110b1afe04bf197a06bc052bd5497
+type: Request
+parentId: fld_29bf5e62248a4ed2b5966db744b3fc68
+modified: 1673113755854
+created: 1673113701557
+url: http://127.0.0.1:8000/units/delete/24
+name: Eliminar
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers:
+  - name: Authorization
+    value: Bearer
+      eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXV0aFwvbG9naW4iLCJpYXQiOjE2NzI5NDQ5NzksImV4cCI6MTY3Mjk0ODU3OSwibmJmIjoxNjcyOTQ0OTc5LCJqdGkiOiJNWlI3ZU0wUlhJMEZLSGFqIiwic3ViIjo0LCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.q6UxxyRF8MsPiSVajRvaB_gAYvnWisWnIjvpqTk_Cqc
+authentication: {}
+metaSortKey: -1673113701578.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

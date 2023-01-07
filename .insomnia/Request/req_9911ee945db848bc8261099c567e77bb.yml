@@ -1,0 +1,29 @@
+_id: req_9911ee945db848bc8261099c567e77bb
+type: Request
+parentId: fld_2c79075dd682490ca6f4c64871832f70
+modified: 1673113820844
+created: 1673113701514
+url: http://127.0.0.1:8000/users/4/image
+name: Modificar foto de perfil
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: image
+      fileName: C:\Users\USER DELL\Pictures\images.jpg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: X-Requested-With
+    value: XMLHttpRequest
+authentication: {}
+metaSortKey: -1673113707485
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

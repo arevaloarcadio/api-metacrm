@@ -1,0 +1,43 @@
+_id: req_bba7a96484294543bd69b303c976ccdf
+type: Request
+parentId: fld_2c79075dd682490ca6f4c64871832f70
+modified: 1673113830464
+created: 1673113701507
+url: http://127.0.0.1:8000/users/
+name: Consultar todos
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"firstname": "Arcadio",
+    	"lastname": "Arevalo",
+    	"email": "arevaloarcadio.96@gmail.com",
+    	"password": "123456**",
+    	"password_confirmation": "123456**",
+    	"unit_ids": [
+    		1,
+    		2
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: UnitId
+    value: "1"
+  - name: X-Requested-With
+    value: XMLHttpRequest
+  - name: Authorization
+    value: Bearer
+      eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXV0aFwvbG9naW4iLCJpYXQiOjE2NzI5Mzk3NDMsImV4cCI6MTY3Mjk0MzM0MywibmJmIjoxNjcyOTM5NzQzLCJqdGkiOiJ0U3hHNXNmbUliZ0t6TURQIiwic3ViIjo0LCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.hQCG135h0wFSCBNZzz0L5cO3i5vvnHFheyULhC56QNY
+authentication: {}
+metaSortKey: -1673113707535
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

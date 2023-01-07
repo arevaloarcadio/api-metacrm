@@ -1,0 +1,26 @@
+_id: req_bc81fcf236474ce6a8dc20e118c5374f
+type: Request
+parentId: fld_08e2f0bfa05945fdab15fc840c95684d
+modified: 1673113776781
+created: 1673113701551
+url: http://127.0.0.1:8000/organizations/subordinates/1/2
+name: Subordinados por el id
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: ""
+parameters: []
+headers:
+  - name: Authorization
+    value: Bearer
+      eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXV0aFwvbG9naW4iLCJpYXQiOjE2NzI5NDQ5NzksImV4cCI6MTY3Mjk0ODU3OSwibmJmIjoxNjcyOTQ0OTc5LCJqdGkiOiJNWlI3ZU0wUlhJMEZLSGFqIiwic3ViIjo0LCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.q6UxxyRF8MsPiSVajRvaB_gAYvnWisWnIjvpqTk_Cqc
+authentication: {}
+metaSortKey: -1673113701604
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
